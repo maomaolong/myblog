@@ -1,3 +1,3 @@
 # myblog
-to learn nodejs write a blog
+learn nodejs write a blog
 hahahaha
